@@ -25,7 +25,7 @@
   
   /* Стилі для шапки */
   header {
-    background-color: #rrggbbaa;
+    background-color: #F5F5F5;
     padding: 20px}
 
     /* Стили для навігаційного меню */
@@ -33,7 +33,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #F4F4F4F4;
+    background-color: #4A4A4A;
     color: #FFFFFF;
     padding: 10px 20px;
     }
